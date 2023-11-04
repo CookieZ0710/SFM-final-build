@@ -26,5 +26,10 @@ our SQL database CREATE and INSERT queries will all be stored here, IT IS NECESS
 - Available logins
 a list of available accounts to log in to use the web app
 
+---------------------------------------------------------------------------------------------------------------------------------------
+DO keep the file as 
+wamp64 > www > SFM >
+for the file src to work properly
+
 IF YOU HAVE ANY TROUBLE SETTING IT UP
 NOTIFY ME TP068939@mail.apu.edu.my

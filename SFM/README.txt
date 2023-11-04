@@ -23,5 +23,8 @@ the Social hub and it's pages would belong here
 - SQL
 our SQL database CREATE and INSERT queries will all be stored here, IT IS NECESSARY TO RUN THESE QUERIES FOR THE WEB APP TO FUNCTION
 
+- Available logins
+a list of available accounts to log in to use the web app
+
 IF YOU HAVE ANY TROUBLE SETTING IT UP
 NOTIFY ME TP068939@mail.apu.edu.my

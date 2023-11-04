@@ -7,7 +7,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
 $UserName = $_POST['username'];
 $UserPassword = $_POST['password'];
 $sql="SELECT * FROM user WHERE UserName='$UserName' and UserPass='$UserPassword'";
-$getID = "SELECT UserID FROM user WHERE UserName='$UserName' and UserPass='$UserPassword'";
 
 $result=mysqli_query($con,$sql);
 

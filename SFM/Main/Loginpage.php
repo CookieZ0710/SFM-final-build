@@ -22,10 +22,6 @@
                     <input type="password" name="password" placeholder="password", required>
                 </div>
                 
-                <div class="rememberpw">
-                <label><input type="checkbox">Remember me</label>
-                </div>
-                
                 <button type="submit" class="button" value="submit">Login</button>
                 
                 <div class="signup-link">

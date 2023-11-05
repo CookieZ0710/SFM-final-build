@@ -41,7 +41,7 @@
             <input type="text" name="TaskName" required>
             <br><br>
 
-            <label>Task Name</label>
+            <label>Task Time</label>
             <br>
             <input type="time" name="TaskTime" required>
             <br><br>

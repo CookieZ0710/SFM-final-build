@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Smart Farm Manager Schedule</title>
+    <title>Smart Farm Manager</title>
     <link rel="stylesheet" href="newstyle.css">
     <script src="https://kit.fontawesome.com/6ccf77e986.js" crossorigin="anonymous"></script>
     <script>

@@ -25,7 +25,7 @@
             </ul>
             <ul class="option2">
                 <div class="MenuButton"><li><a href="-"><i class="fa-solid fa-gears"></i><p>Settings</p></a></li></div>
-                <div class="MenuButton"><li><a href="-"><i class="fa-solid fa-arrow-right-from-bracket"></i><p>Sign Out</p></a></li></div>
+                <div class="MenuButton"><li><a href="/SFM/Main/Logout.php"><i class="fa-solid fa-arrow-right-from-bracket"></i><p>Sign Out</p></a></li></div>
             </ul>
         </div>
         <div class="wrapper">

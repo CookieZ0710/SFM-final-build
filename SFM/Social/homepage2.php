@@ -1,6 +1,7 @@
 
 <?php
-include 'conn.php';
+    include("session.php");
+    include ("conn.php");
 ?>
 
 <!DOCTYPE html>

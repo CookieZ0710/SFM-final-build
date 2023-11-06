@@ -31,7 +31,7 @@ include 'conn.php';
             </ul>
             <ul class="option2">
                 <div class="Settings"><li><a href="-"><i class="fa-solid fa-gears"></i><p>Settings</p></a></li></div>
-                <div class="Signout"><li><a href="-"><i class="fa-solid fa-arrow-right-from-bracket"></i><p>Sign Out</p></a></li></div>
+                <div class="Signout"><li><a href="/SFM/Main/Logout.php"><i class="fa-solid fa-arrow-right-from-bracket"></i><p>Sign Out</p></a></li></div>
             </ul>
         </div>
         

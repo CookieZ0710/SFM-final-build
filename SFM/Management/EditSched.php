@@ -11,6 +11,7 @@
 </head>
 <body>
     <?php 
+        include ('session.php');
         include ('conn.php');
         $result = mysqli_query($con,"SELECT * FROM schedule");
     ?>

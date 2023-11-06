@@ -32,4 +32,6 @@ wamp64 > www > SFM >
 for the file src to work properly
 
 IF YOU HAVE ANY TROUBLE SETTING IT UP
-NOTIFY ME TP068939@mail.apu.edu.my
+NOTIFY ME 
+Melvin Lee Ming Xuan
+TP068939@mail.apu.edu.my 
